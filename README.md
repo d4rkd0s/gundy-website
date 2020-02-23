@@ -6,7 +6,7 @@ Welcome to Gundy, a 2D platformer made by d4rkd0s
 
 Gundy is on Steam and is 100% free to download and play, search `Gundy`
 
-![Available on Steam](https://github.com/d4rkd0s/gundy-website/blob/master/logo_available_steam_website.png?raw=true "Available on Steam")
+![Available on Steam](https://github.com/d4rkd0s/gundy-website/blob/master/available_steam_website.png?raw=true "Available on Steam")
 
 ### Support or Contact
 
