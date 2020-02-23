@@ -10,4 +10,7 @@ Gundy is on Steam and is 100% free to download and play, search `Gundy`
 
 ### Support or Contact
 
-Having issues with Gundy? Please submit a bug/issue here: https://github.com/d4rkd0s/gundy-website/issues/new
+Having issues with Gundy?
+Have new ideas for Gundy?
+Please submit a feature request or bug here:
+https://github.com/d4rkd0s/Gundy/issues/new/choose
